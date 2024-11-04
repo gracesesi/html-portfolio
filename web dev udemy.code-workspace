@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "web dev udemy",
+			"path": "../../OneDrive/Desktop/web dev udemy"
+		},
+		{
+			"name": "4.1+Webpages",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "4.1+Webpages"
+	}
+}
